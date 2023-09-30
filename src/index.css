@@ -129,6 +129,8 @@ footer a:hover {
 }
 
 footer p {
+  padding-bottom: 16px;
+  margin-bottom: 0;
   color: aliceblue;
   text-align: center;
 }
